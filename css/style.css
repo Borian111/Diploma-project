@@ -1021,6 +1021,12 @@ video#video_background {
 .accordeon .element.active .title:before {
 	background: url(../images/minus.png) 50% 50% no-repeat #333;
 }
+
+
+
+
+
+
 .accordeon > div:first-of-type .element-content {
 	display: block;
 }
